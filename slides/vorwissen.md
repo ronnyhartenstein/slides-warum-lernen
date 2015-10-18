@@ -1,5 +1,5 @@
 ##  Vorwissen
-Learning aus 2014 und früher
+**Learning aus 2014 und früher**
 
 - NPM: Node.JS Packetmanager
 - Bower: Frontend Paketmanager

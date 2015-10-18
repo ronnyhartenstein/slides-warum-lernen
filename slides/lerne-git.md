@@ -1,3 +1,6 @@
 ##  Lerne Versionsverwaltung
+Git ist der Opensource-Standard (GitHub)
 
-This is a new Markdown slide
+**genutze Vorkenntnisse:**
+
+- SVN und CVS
