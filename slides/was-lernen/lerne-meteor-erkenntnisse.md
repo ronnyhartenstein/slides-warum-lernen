@@ -1,4 +1,4 @@
-##  neue Erkenntnisse
+###  neue Erkenntnisse
 
 - Next-Level-Webentwicklung
 - arbeiten mit MongoDB

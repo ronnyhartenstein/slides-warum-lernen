@@ -1,4 +1,4 @@
-##  neue Erkenntnisse
+###  neue Erkenntnisse
 
 - mehr Fehler beim Compilieren abfangen durch starkes Typisieren
 - JS Lint kann entfallen, macht der TS-Compiler

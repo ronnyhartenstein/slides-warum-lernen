@@ -1,4 +1,4 @@
-## neue Erkenntnisse
+### neue Erkenntnisse
 
 - Definition in `Dockerfile` = Dokumentation
 - Mac entschlackt, weniger Seiteneffekte, weniger Wartung

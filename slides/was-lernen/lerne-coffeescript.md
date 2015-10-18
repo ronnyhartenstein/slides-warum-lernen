@@ -1,4 +1,4 @@
-##  Lerne Coffeescript
+###  Lerne Coffeescript
 
 **genutze Vorkenntnisse:**
 

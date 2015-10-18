@@ -1,4 +1,4 @@
-##  neue Erkenntnisse
+###  neue Erkenntnisse
 
 - funktionale Prog. ist anders als imperative Prog.
 - Veränderung der Denkweise nötig

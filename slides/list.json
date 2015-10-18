@@ -1,61 +1,69 @@
 [
     "index.md",
+    "teil-1-was-lernen.md",
     [
-        "lern-historie-eines-jahres.md",
-        "lern-historie-eines-jahres-2.md",
-        "vorwissen.md"
+        "was-lernen/lern-historie-eines-jahres.md",
+        "was-lernen/lern-historie-eines-jahres-2.md",
+        "was-lernen/vorwissen.md"
     ],
     [
-        "lerne-bootstrap.md",
-        "lerne-bootstrap-erkenntnisse.md",
-        "lerne-bootstrap-aufwand.md"
+        "was-lernen/lerne-bootstrap.md",
+        "was-lernen/lerne-bootstrap-erkenntnisse.md",
+        "was-lernen/lerne-bootstrap-aufwand.md"
     ],
     [
-        "lerne-docker.md",
-        "lerne-docker-erkenntnisse.md",
-        "lerne-docker-aufwand.md"
+        "was-lernen/lerne-docker.md",
+        "was-lernen/lerne-docker-erkenntnisse.md",
+        "was-lernen/lerne-docker-aufwand.md"
     ],
     [
-        "lerne-python.md",
-        "lerne-python-erkenntnisse.md",
-        "lerne-python-aufwand.md"
+        "was-lernen/lerne-python.md",
+        "was-lernen/lerne-python-erkenntnisse.md",
+        "was-lernen/lerne-python-aufwand.md"
     ],
     [
-        "lerne-jade.md",
-        "lerne-jade-erkenntnisse.md",
-        "lerne-jade-aufwand.md"
+        "was-lernen/lerne-jade.md",
+        "was-lernen/lerne-jade-erkenntnisse.md",
+        "was-lernen/lerne-jade-aufwand.md"
     ],
     [
-        "lerne-markdown.md",
-        "lerne-markdown-erkenntnisse.md",
-        "lerne-markdown-aufwand.md"
+        "was-lernen/lerne-markdown.md",
+        "was-lernen/lerne-markdown-erkenntnisse.md",
+        "was-lernen/lerne-markdown-aufwand.md"
     ],
     [
-        "lerne-typescript.md",
-        "lerne-typescript-erkenntnisse.md",
-        "lerne-typescript-aufwand.md"
+        "was-lernen/lerne-typescript.md",
+        "was-lernen/lerne-typescript-erkenntnisse.md",
+        "was-lernen/lerne-typescript-aufwand.md"
     ],
     [
-        "lerne-meteor.md",
-        "lerne-meteor-erkenntnisse.md",
-        "lerne-coffeescript.md"
+        "was-lernen/lerne-meteor.md",
+        "was-lernen/lerne-meteor-erkenntnisse.md",
+        "was-lernen/lerne-meteor-aufwand.md",
+        "was-lernen/lerne-coffeescript.md"
     ],
     [
-        "lerne-git.md",
-        "lerne-git-aufwand.md",
-        "lerne-git-erkenntnisse.md"
+        "was-lernen/lerne-git.md",
+        "was-lernen/lerne-git-erkenntnisse.md",
+        "was-lernen/lerne-git-aufwand.md"
     ],
     [
-        "lerne-elixir.md",
-        "lerne-elixir-aufwand.md",
-        "lerne-elixir-erkenntnisse.md"
+        "was-lernen/lerne-elixir.md",
+        "was-lernen/lerne-elixir-erkenntnisse.md",
+        "was-lernen/lerne-elixir-aufwand.md"
     ],
-    "lerne-ember.md",
-    "lerne-phoenix.md",
+    [
+        "was-lernen/lerne-ember.md",
+        "was-lernen/lerne-ember-erkenntnisse.md",
+        "was-lernen/lerne-ember-aufwand.md"
+    ],
+    [
+        "was-lernen/lerne-phoenix.md",
+        "was-lernen/lerne-phoenix-erkenntnisse.md",
+        "was-lernen/lerne-phoenix-aufwand.md"
+    ],
+    "teil-2-warum-lernen.md",
+    "teil-3-wie-lernen.md",
     "made-by-reveal-js.md",
-    "dankeschon.md",
-    "lerne-ember-erkenntnisse.md",
-    "lerne-ember-aufwand.md",
-    "lerne-phoenix-aufwand.md",
-    "lerne-phoenix-erkenntnisse.md"
+    "dankeschon.md"
 ]

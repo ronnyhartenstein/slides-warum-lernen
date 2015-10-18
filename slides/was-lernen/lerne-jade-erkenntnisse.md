@@ -1,4 +1,4 @@
-##  neue Erkenntnisse
+###  neue Erkenntnisse
 
 - keine Tags sind OK
 - weniger Syntax-Clutter = freie Sicht auf den Inhalt
