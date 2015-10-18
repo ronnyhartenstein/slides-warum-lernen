@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Warum lernen? Was lernen? Wann lernen?",
+    "packageVersion": "0.0.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

@@ -1,0 +1,14 @@
+## Lern-Historie eines Jahres
+4 Frameworks, 3 Programmiersprachen, 3 Templatesprachen
+
+- Bootstrap <small>(Herbst 2014 - März 2015)</small>
+- Docker <small>(Nov. 2014 - Jan. 2015)</small>
+- Python <small>(Dez. 2014)</small>
+- Jade (+ Reveal.JS) <small>(Jan. 2015)</small>
+- Markdown <small>(März 2015)</small>
+- Typescript <small>(Mai - Sept. 2015)</small>
+- Meteor (+ Coffeescript + Spacebars + MongoDB) <small>(Mai - Juli 2015)</small>
+- Git <small>(Aug. 2015)</small>
+- Elixir <small>(Aug. - Sept. 2015)</small>
+- Ember (+ Handlebars) <small>(Sept. - Okt. 2015)</small>
+- Phoenix <small>(Okt. 2015 - ..)</small>
