@@ -63,7 +63,19 @@
         "was-lernen/lerne-phoenix-aufwand.md"
     ],
     "teil-2-warum-lernen.md",
+    [
+      "warum-lernen/kontext.md",
+      "warum-lernen/kontext-gemeinsamkeiten.md"
+    ],
     "teil-3-wie-lernen.md",
+    "wie-lernen/too-busy-to-improve.md",
+    "teil-4-clean-code.md",
+    [
+      "besser-coden/funktionen-regeln.md",
+      "besser-coden/funktionen-derzeit.md",
+      "besser-coden/funktionen-total-lang.md",
+      "besser-coden/funktionen-funktioenchen.md"
+    ],
     "made-by-reveal-js.md",
     "dankeschon.md"
 ]
